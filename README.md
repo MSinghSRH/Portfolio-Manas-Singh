@@ -1,4 +1,3 @@
-To all those concerned:
-Welcome to my portfolio. This is a collection of all the code I've written so far, regardless of condition, sorted into two categories for convenience. The folders are self explanatory.
+A foster home for orphaned programs that still need to be put into a repo with all their associated files.
 
-SQL code has not been added at the moment. Stay tuned.
+Sorted into folders based on their operational condition.
